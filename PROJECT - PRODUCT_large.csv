@@ -1,0 +1,21 @@
+product_id,name,category,price,stock_level
+2001,Product_1,Groceries,140.93,191
+2002,Product_2,Home Appliances,101.64,234
+2003,Product_3,Electronics,177.32,207
+2004,Product_4,Toys,239.88,492
+2005,Product_5,Groceries,218.83,393
+2006,Product_6,Electronics,408.37,231
+2007,Product_7,Toys,66.04,21
+2008,Product_8,Home Appliances,84.83,442
+2009,Product_9,Groceries,459.96,201
+2010,Product_10,Groceries,10.52,312
+2011,Product_11,Clothing,155.45,12
+2012,Product_12,Clothing,495.17,127
+2013,Product_13,Toys,489.91,266
+2014,Product_14,Home Appliances,374.43,271
+2015,Product_15,Toys,129.9,480
+2016,Product_16,Clothing,188.19,299
+2017,Product_17,Electronics,182.71,75
+2018,Product_18,Home Appliances,391.08,108
+2019,Product_19,Electronics,413.19,166
+2020,Product_20,Electronics,213.2,355
