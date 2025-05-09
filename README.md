@@ -62,5 +62,4 @@ By completing this project, you will:
 
 ---
 
-## 📂 Folder Structure
 
