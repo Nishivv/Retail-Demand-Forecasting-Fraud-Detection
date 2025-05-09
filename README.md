@@ -1,62 +1,66 @@
-🛍️ Retail Analytics SQL Project
+# 🛍️ Retail Analytics SQL Project
 
+## 📌 Project Description
 
-**📌 Project Description
+This project focuses on building a comprehensive **Retail Analytics Database** from scratch using **SQL (MySQL)**. It simulates a real-world retail scenario involving key entities like **Customers**, **Products**, **Sales**, and **Transactions**. The objective is to generate actionable business insights through data modeling, validation, cleaning, and analytical querying.
 
-This project focuses on building a Retail Analytics Database from scratch using SQL. It simulates a real-world retail environment by integrating key entities such as Customers, Products, Sales, and Transactions. The goal is to explore retail operations and generate actionable business insights using advanced SQL techniques.
+The project demonstrates practical SQL skills required for **data analyst roles** and serves as a hands-on example of working with structured data in retail operations.
 
-The database is designed to support end-to-end retail analytics tasks, including data cleaning, validation, exploration, and reporting. Key aspects of the project include:
+---
 
-Database Schema Design: Created relational tables with appropriate keys and constraints for referential integrity.
+## 🧰 Technologies Used
 
-Data Quality Checks: Handled missing values, null checks, duplicate detection, and data validation across entities.
+- **SQL (MySQL)**
+- **Relational Database Design**
+- **Data Cleaning & Validation**
+- **Exploratory Data Analysis (EDA)**
+- **Analytical Reporting**
 
-Exploratory Data Analysis (EDA): Used SQL to assess data distribution, detect outliers, and verify foreign key relationships.
+---
 
-Analytical SQL Queries: Extracted key business insights such as top-performing products, customer segments, revenue trends, and inventory performance.
+## 🏗️ Key Features & Implementation
 
-🔍 Key Business Insights Queries
+### 📊 Database Schema Design
+- Created normalized relational tables: `Customers`, `Products`, `Transactions`, and `Sales`.
+- Defined primary and foreign keys to ensure referential integrity.
 
-Top 5 most purchased products
+### 🔍 Data Quality Checks
+- Handled missing values and null entries.
+- Detected and eliminated duplicate records.
+- Validated relationships between tables (e.g., valid foreign keys).
 
-Category-wise revenue contribution
+### 📈 Exploratory Data Analysis (EDA)
+- Analyzed data distribution using aggregations (e.g., `MIN`, `MAX`, `AVG`).
+- Identified outliers in revenue, transaction amounts, and stock levels.
 
-High-value customer detection
+---
 
-Average Order Value (AOV) calculation
+## 🔍 Key Business Insight Queries
 
-Hourly and daily peak purchase trends
+- 🏆 Top 5 Most Purchased Products  
+- 💰 Category-Wise Revenue Contribution  
+- 👑 High-Value Customer Identification  
+- 💵 Average Order Value (AOV)  
+- ⏰ Hourly and Daily Peak Purchase Trends  
+- 📉 Product Performance (Top & Worst)  
+- 🏪 Inventory Turnover & Stock Availability  
+- 📆 Monthly Sales & Revenue Growth  
+- 🌍 Region-Wise Sales Performance  
+- 👥 Customer Segmentation (High / Medium / Low Value)
 
-Product performance benchmarking
+---
 
-Stock and inventory turnover analysis
+## ✅ Outcomes
 
-Monthly revenue and growth rates
+By completing this project, you will:
 
-Sales performance by region
+- ✅ Understand how to design and build a normalized retail database  
+- ✅ Apply SQL to solve real-world business problems  
+- ✅ Perform comprehensive data validation and cleaning  
+- ✅ Extract and report on critical KPIs using analytical queries  
+- ✅ Improve your proficiency in data analysis for retail domain  
 
-Customer segmentation (high/medium/low)
+---
 
-This project showcases practical SQL skills in data modeling, cleansing, transformation, and analytical reporting. It is ideal for data analyst roles that demand proficiency in structured query languages and insight-driven decision making.
+## 📂 Folder Structure
 
-📂 Technologies Used
-SQL (MySQL)
-
-Relational Database Design
-
-Data Cleaning & Validation
-
-Exploratory Data Analysis
-
-Analytical Reporting
-
-✅ Outcomes
-By the end of this project, you will:
-
-Understand how to design a normalized retail database.
-
-Apply SQL to real-world retail scenarios.
-
-Perform comprehensive data quality assessments.
-
-Gain insights into customer behavior, sales trends, and product performance.
