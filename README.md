@@ -1,5 +1,5 @@
-🛍️ Retail Analytics SQL Project
-📌 Project Description
+**🛍️ Retail Analytics SQL Project
+**📌 Project Description
 This project focuses on building a Retail Analytics Database from scratch using SQL. It simulates a real-world retail environment by integrating key entities such as Customers, Products, Sales, and Transactions. The goal is to explore retail operations and generate actionable business insights using advanced SQL techniques.
 
 The database is designed to support end-to-end retail analytics tasks, including data cleaning, validation, exploration, and reporting. Key aspects of the project include:
