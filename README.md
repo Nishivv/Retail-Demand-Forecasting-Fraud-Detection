@@ -1,4 +1,4 @@
-**🛍️ Retail Analytics SQL Project
+🛍️ Retail Analytics SQL Project
 
 
 **📌 Project Description
